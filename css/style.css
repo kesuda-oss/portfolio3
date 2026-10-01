@@ -1,0 +1,55 @@
+html{
+    font-size: 100%;
+}
+body{
+    line-height: 1.7;
+    color: #432;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    
+
+}
+h1{
+    
+    font-size: 2.5rem;
+    font-style: bold;
+    margin-bottom: 2rem;
+}
+.main{
+   
+    display: block;
+    max-width: 736px;
+    margin: 0 auto;
+}
+.main p{
+    color: #432;
+    border-bottom: 1px solid #979797;
+    margin-bottom: 2rem;
+} 
+.back{
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 5px 5px;
+    background-color: rgb(0, 204, 17);
+    color: #fff;
+    border-radius: 8px;
+    transition: 0.5s;
+}
+.back:hover{
+    background-color: rgb(0, 77, 6);
+    padding: 7px 7px ;
+}
+.contents{  
+    margin: 0 auto;
+}
+.box{
+    max-width: 500px;
+    border-radius: 6px;
+    background-color: #FAF6E6;
+   
+}
